@@ -18,7 +18,7 @@ Sure, this is Lua on C++, it won't crash, only those J guys do.
 
 - Found a problem?
 
-Create a [new issue](issues/new), I'll be glad to help!
+Create a [new issue](https://github.com/FacuM/CommandScheduler/issues/new), I'll be glad to help!
 
 ### License
 This plugin is licensed under the [MIT License](LICENSE).
