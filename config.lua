@@ -6,7 +6,7 @@ SCHEDULED_COMMANDS = {
 
 -- Timed commands (by interval)
 TIMED_COMMANDS = {
-  "say Welcome to the my server!",
+  "say Welcome to my server!",
   "say Thank you for playing!"
 }
 
