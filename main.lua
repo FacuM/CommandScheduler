@@ -1,4 +1,7 @@
-PLUGIN = nil
+PLUGIN               = nil
+
+MAX_TIME_TICKS       = (MAX_TIME_MILI / 1000) * 20
+TICK_COUNT           = 0
 TIMED_COMMANDS_COUNT = 0
 
 function Initialize(Plugin)
